@@ -13,7 +13,7 @@ Install it like a normal Windows app.
 
 ### Step 3 :Login to the VPN App
 Open the installed ProtonVPN client. <br>
-Sign in with the account you created.
+Sign in with the account created.
 
 ### Step 4 : Connect to a VPN server
 Click `Connect` → it will choose the fastest nearby server automatically. <br>
