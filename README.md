@@ -1,7 +1,7 @@
 # Task-8: Working with VPNs 
 
 ### Objective: Understand the role of VPNs in protecting privacy and secure communication.
-### Tools:Free VPN client (ProtonVPN free tier)
+### Tools: Free VPN client (ProtonVPN free tier)
 
 ### Step 1 : Choose a VPN service
 Go to `ProtonVPN Free` or `Windscribe Free`.<br>
@@ -11,7 +11,7 @@ Sign up with email ID.
 Download the Windows installer for `ProtonVPN` or `Windscribe`.<br>
 Install it like a normal Windows app.
 
-### Step 3 :Login to the VPN App
+### Step 3 : Login to the VPN App
 Open the installed ProtonVPN client. <br>
 Sign in with the account created.
 
